@@ -5,16 +5,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Ship"
     },
-    "image1": {
-        "data": "hwQDAAUAAAABAAEAEREBAAAAAQA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "1"
-    },
-    "image21": {
-        "data": "hwQDAAQAAAAQAQAAARAAABABAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "0"
-    },
     "image4": {
         "data": "hwQDAAwAAAAAABABAAAAABEBARAQEQAAAAAQAQAAAAA=",
         "mimeType": "image/x-mkcd-f4",
@@ -24,6 +14,16 @@
         "data": "hwQDAA0AAAAQAQAAABEAAAEQEBEQAAEAEAEAAAARAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "010"
+    },
+    "image1": {
+        "data": "hwQDAAUAAAABAAEAEREBAAAAAQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "1"
+    },
+    "image21": {
+        "data": "hwQDAAQAAAAQAQAAARAAABABAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "0"
     },
     "image6": {
         "data": "hwQMABAAAAAAACBAAAAAAAAAAFJEAAAAAAAAQlQEAAAgAPhCRFQEAJDyGEQiIlIAAvlRVVVVVVYC+V9VVVVVVpDyWEQiIlIAIAD4QkRUBAAAAABCVAQAAAAAAFJEAAAAAAAgQAAAAAA=",
