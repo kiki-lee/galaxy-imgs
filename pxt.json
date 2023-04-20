@@ -6,8 +6,10 @@
         "device": "*"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
         "assets.json",
-        "images.g.jres"
+        "images.g.jres",
         "pxt.json"
     ],
     "testFiles": [
