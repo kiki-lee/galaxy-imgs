@@ -12,14 +12,12 @@
         "images.g.jres",
         "pxt.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "branch": "v1.12.26",
         "tag": "v1.12.26",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/5913cfba52b36d2a23773b528b9c996b007c0e3f",
-        "target": "1.12.29",
+        "target": "1.12.32",
         "pxt": "8.5.38",
         "targetId": "arcade"
     },
