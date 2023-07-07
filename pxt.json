@@ -10,7 +10,8 @@
         "main.ts",
         "assets.json",
         "images.g.jres",
-        "pxt.json"
+        "pxt.json",
+        "images.g.ts"
     ],
     "testFiles": [],
     "targetVersions": {
