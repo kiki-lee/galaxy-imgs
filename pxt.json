@@ -9,10 +9,7 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
         "images.g.jres",
-        "images.g.ts",
         "pxt.json"
     ],
     "testFiles": [],
@@ -45,5 +42,6 @@
         "#C0C0C0",
         "#180A42",
         "#001E57"
-    ]
+    ],
+    "assetPack": true
 }
