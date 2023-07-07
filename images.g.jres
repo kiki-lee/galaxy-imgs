@@ -4,16 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Rocket"
     },
-    "image4": {
-        "data": "hwQDAAwAAAAAABABAAAAABEBARAQEQAAAAAQAQAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "101"
-    },
-    "image11": {
-        "data": "hwQDAA0AAAAQAQAAABEAAAEQEBEQAAEAEAEAAAARAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "010"
-    },
     "image10": {
         "data": "hwQUABAAAAAAy8wMAAAAAADLvAwAAAAAALu8DAAAAAAAu7wMAAAAAAC7vAwAAAAAAMu8DAAAAAAAsMwAAAAAAAAADAAAywAAALDd27DMAAC7HBEXx8wAALscERHHzAAAALDd27DMAAAAAAwAAMsAAACwzAAAAAAAAMu8DAAAAAAAu7wMAAAAAAC7vAwAAAAAALu8DAAAAAAAu7wMAAAAAADLzAwAAAAA",
         "mimeType": "image/x-mkcd-f4",
@@ -23,16 +13,6 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8DAAAAAAAwLvLAAAAAAC6+68MAAAAwKurr8wAAADA+r/LDAAAAMDKv7oMAAAAAKCqvwAAAAAAwKysAAAAAAAAzAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Asteroid"
-    },
-    "image1": {
-        "data": "hwQDAAUAAAABAAEAEREBAAAAAQA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "1"
-    },
-    "image21": {
-        "data": "hwQDAAQAAAAQAQAAARAAABABAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "0"
     },
     "image6": {
         "data": "hwQMABAAAAAAACBAAAAAAAAAAFJEAAAAAAAAQlQEAAAgAPhCRFQEAJDyGEQiIlIAAvlRVVVVVVYC+V9VVVVVVpDyWEQiIlIAIAD4QkRUBAAAAABCVAQAAAAAAFJEAAAAAAAgQAAAAAA=",
@@ -64,6 +44,26 @@
         "tags": [
             "background"
         ]
+    },
+    "image4": {
+        "data": "hwQDAAwAAAAAABABAAAAABEBARAQEQAAAAAQAQAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p101"
+    },
+    "image11": {
+        "data": "hwQDAA0AAAAQAQAAABEAAAEQEBEQAAEAEAEAAAARAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p010"
+    },
+    "image1": {
+        "data": "hwQDAAUAAAABAAEAEREBAAAAAQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p1"
+    },
+    "image21": {
+        "data": "hwQDAAQAAAAQAQAAARAAABABAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p0"
     },
     "anim8": {
         "namespace": "myAnimations",
